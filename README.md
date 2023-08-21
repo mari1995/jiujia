@@ -11,9 +11,15 @@
 - [快速开始](#快速开始)
 - [配置选项](#配置选项)
 - [作者信息](#作者信息)
+- [致谢](#致谢)
 
 ## 特性
-✅ 微信通知
+✅ 微信通知  
+
+#### 疫苗信息支持地区    
+- 广州市
+
+
 
 ## 快速开始
 
@@ -21,7 +27,6 @@
 
 ```bash
 pip install -r requirements.txt
-
 python main.py
 ```
 
@@ -31,5 +36,9 @@ python main.py
 ```
 
 ## 作者信息
-![img.png](img.png)
+<img src="img.png" alt="作者头像" width="200"/>
+
+## 致谢
+[广州市疾病预防控制中心](http://www.gzcdc.org.cn/)
+
 
