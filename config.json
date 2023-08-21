@@ -1,0 +1,34 @@
+{
+  "pushplus_token": "",
+  "model": {
+    "type": "jiujia"
+  },
+  "channel": {
+    "single_chat_prefix": [],
+    "group_chat_prefix": [
+      "@九价通知"
+    ],
+    "group_name_white_list": [
+      "九价疫苗通知群"
+    ],
+    "group_name_keyword_white_list": [
+      "九价疫苗通知"
+    ],
+    "type": [
+      "wechat"
+    ],
+    "terminal": {
+    },
+    "wechat": {
+      "receive_qrcode_api": "True",
+      "hot_reload": "True"
+    }
+  },
+  "common": {
+    "redis_db": {
+      "host": "localhost",
+      "port": 6379,
+      "password": ""
+    }
+  }
+}
